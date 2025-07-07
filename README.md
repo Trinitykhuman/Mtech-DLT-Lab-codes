@@ -6,4 +6,4 @@ All the experiment of the Deep Learning Techniques Lab codes.
 
 Exp 1 to Exp 10
 
-TO run the code -> used Google colab
+To run the code -> used Google colab
